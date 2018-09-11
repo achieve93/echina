@@ -8,5 +8,5 @@ eclipse、intellij开发工具翻译插件：开发工具内直接翻译，无�
 1、安装intellij到指定盘符，JDK1.7以上。<br>
 2、切换到intellij根目录，将intellij_plug_echina.zip复制到plugins目录下，并解压到当前目录。<br>
 3、如果已经打开intellij，请先关闭，重新打开即可，菜单在：Tools菜单的第一个"Echina Translate"<br><br>
-#ecode
+# ecode
 Ecode 是一款设计模式代码输出工具，优雅的代码风格，无需思考设计模式，主动生成；摆脱平时随意编码习惯，提升码农编码能力修养；养成良好的编码规范；提供23种设计模式输出、静态常量输出、枚举输出、状态机输出。
