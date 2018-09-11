@@ -1,5 +1,5 @@
 # echina
-eclipse、intellij开发工具翻译插件：开发工具内直接翻译，无需借助其他翻译平台，提高效率；主要功能：看源码注释、编码中文转英文，快捷生成英文注释，提高代码质量，提高编码能力。echina 点哪里翻译哪里，echina为了更好的你。<br>
+echina为了更好的你；eclipse、intellij开发工具翻译插件：开发工具内直接翻译，无需借助其他翻译平台，提高效率；主要功能：看源码注释、编码中文转英文，快捷生成英文注释，提高代码质量，提高编码能力。echina 点哪里翻译哪里。<br>
 一、eclipse【com.yita.echina_1.0.1.201808141028.jar】:<br>
 1、解压eclipse到指定盘符，JDK1.7以上。<br>
 2、切换到eclipse根目录，将com.yita.echina_1.0.1.201808141028.jar复制到plugins目录下。<br>
