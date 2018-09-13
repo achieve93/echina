@@ -14,3 +14,8 @@ Ecode 是一款设计模式代码输出工具，优雅的代码风格，无需�
 1、安装intellij到指定盘符，JDK1.7以上。<br>
 2、切换到intellij根目录，将design patterns/intellij_plug_echina&ecode_20180911001.zip复制到plugins目录下，并解压到当前目录。<br>
 3、如果已经打开intellij，请先关闭，重新打开即可，菜单在：右击项目第一个"Ecode"<br>
+二、eclipse【Ecode 代码生成器】<br>
+1、解压eclipse到指定盘符，JDK1.7以上。<br>
+2、切换到eclipse根目录，将com.yita.echina_1.0.1.201808141028.jar复制到plugins目录下。<br>
+3、如果没有plugins目录，则在../eclipse/ 下新建plugins。<br>
+4、如果已经打开eclipse，请先关闭，重新打开即可，菜单在：右击项目最后一个菜单"Ecode 代码生成器"<br>
